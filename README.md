@@ -1,8 +1,6 @@
 # Demand and Supply Analysis
 
-## This project involves the demand and supply concepts and how the relationship between
-
-## the quantity demanded and the quantity supplied can be analyzed using Python.
+## This project involves the demand and supply concepts and how the relationship between the quantity demanded and the quantity supplied can be analyzed using Python.
 
 ## The dataset used in this project can be found in this repository. Below is some basic information about the dataset:
 
