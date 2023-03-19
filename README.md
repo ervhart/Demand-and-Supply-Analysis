@@ -11,3 +11,9 @@
 # Task
 
 - The task is to analyze the demand for rides and the supply of taxis to understand demand and supply patterns.
+
+# Properties Calculated:
+
+- Relationship between the number of drivers active per hour and the number of rides active per hour
+- Elasticity
+- Supply Ratio
