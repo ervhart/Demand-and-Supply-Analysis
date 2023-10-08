@@ -14,3 +14,5 @@ The task is to analyze the demand for rides and the supply of taxis to understan
 * Relationship between the number of drivers active per hour and the number of rides active per hour
 * Elasticity
 * Supply Ratio
+
+  
