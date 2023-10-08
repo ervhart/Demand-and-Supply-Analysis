@@ -15,4 +15,6 @@ The task is to analyze the demand for rides and the supply of taxis to understan
 * Elasticity
 * Supply Ratio
 
-  
+  ![alt text](https://github.com/ervhart/Demand-and-Supply-Analysis/blob/main/Capture_SD.PNG)
+
+  ![alt text](https://github.com/ervhart/Demand-and-Supply-Analysis/blob/main/Capture_SD2.PNG)
